@@ -20,14 +20,14 @@ border-right: 10px;
 }
 /*ETIQUETAS*/
 body{
-background-image: url(../img/star.gif);
+background-image: url(../img/fondo.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
 
 h1{
 
-	background: red none repeat scroll 0 0;
+	background: maroon none repeat scroll 0 0;
     border-radius: 10px;
     color: white;
     font-family: "Shadows Into Light",cursive;
