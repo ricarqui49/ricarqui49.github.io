@@ -79,14 +79,17 @@ section{
 
 	h5{
 
+    
     color: white;
     font-family: "Shadows Into Light",cursive;
-    font-size: 10px;
+    font-size: 12px;
     height: 60px;
     margin-left: 10px;
-    text-align: center;
+    text-align: justify;
+    padding: 40px;
+
     
-}
+	}
 
 }
 aside{
@@ -112,10 +115,10 @@ margin-bottom: 20px;
 
 p{
 
-	font-size: 12px;
+	font-size: 15px;
 	font-weight: bolder;
 	line-height: 24px;
-	padding: 40px;
+	padding: 10px;
 	text-align: justify;
 }
 
