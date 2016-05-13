@@ -78,16 +78,7 @@ section{
 	margin-top: 20px;
 	border-radius: 10px;
 
-		p{
-
-		font-size: 12px;
-		font-weight: bolder;
-		line-height: 12px;
-		padding: 40px;
-		text-align: justify;
-
-		}
-
+		
     
 	}
 
@@ -102,7 +93,15 @@ aside{
 	margin-top: 20px;
 	border-radius: 10px;
 	}
+p{
 
+		font-size: 12px;
+		font-weight: bolder;
+		line-height: 12px;
+		padding: 40px;
+		text-align: justify;
+
+}
 	
 
 footer{
