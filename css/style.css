@@ -72,26 +72,25 @@ li{
 section{
 	width: 700px;
 	background: maroon;
-	height: 1200px;
+	height: 1000px;
 	float: left;
 	margin-top: 20px;
 	border-radius: 10px;
 
-	h5{
+	p{
 
-    
-    color: white;
-    font-family: "Shadows Into Light",cursive;
-    font-size: 12px;
-    height: 60px;
-    margin-left: 10px;
-    text-align: justify;
-    padding: 40px;
+	font-size: 12px;
+	font-weight: bolder;
+	line-height: 12px;
+	padding: 40px;
+	text-align: justify;
+
+	}
 
     
 	}
 
-}
+
 aside{
 
 	width: 280px;
@@ -103,15 +102,7 @@ aside{
 	border-radius: 10px;
 	}
 
-	p{
-
-	font-size: 12px;
-	font-weight: bolder;
-	line-height: 15px;
-	padding: 40px;
-	text-align: justify;
-
-	}
+	
 
 footer{
 width: 1000px;
