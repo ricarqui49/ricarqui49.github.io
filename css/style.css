@@ -33,22 +33,6 @@ font-size: 60px;
 text-align: center; 
 }
 
-h2{
-font-family: 'Indie Flower', cursive;
-color: white;
-margin-left: 10px;
-font-size: 20px;
-text-align: left; 
-}
-
-h3{
-font-family: 'Shadows Into Light', cursive;;
-color: white;
-font-size: 30px;
-text-align: center; 
-}
-
-
 header{
 	width: 1000px;
 	height: 120 px;
